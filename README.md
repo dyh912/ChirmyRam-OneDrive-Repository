@@ -1,49 +1,34 @@
 <img align="right" width="240" src="https://gcore.jsdelivr.net/gh/ChirmyRam/ChirmyRam-OneDrive-Repository/odlogo.png">
 
-# 🛖 七米蓝的仓库
+#  小小段の库
 
-> 食用方式：网页浏览下载、 WebDAV 挂载、 Rclone 批量搬运
-
-> 联系方式：[【😸Github Issue】](https://github.com/ChirmyRam/ChirmyRam-OneDrive-Repository/issues) <a href="mailto:office@chirmyram.top">【📧邮件】</a> [【👉永久链接】](https://github.com/ChirmyRam/ChirmyRam-OneDrive-Repository) [![](https://img.shields.io/github/forks/ChirmyRam/ChirmyRam-OneDrive-Repository?style=social&label=star)](https://github.com/ChirmyRam/ChirmyRam-OneDrive-Repository)
-
-不只分享资源，还分享经验。本站持续添加多账号负载均衡，且由于开放 WebDAV 而长期吸引海量访问量，服务器压力巨大，运营维护不易，特开启以下捐赠通道：
+本站持续更新资源，购买阿里云盘、123云盘和天翼云盘的会员进行存储，由雨云香港服务器提供服务。运营维护不易，特开启以下捐赠通道：
 
 ### 1. 微信赞赏码：
 
-![微信赞赏码](https://gcore.jsdelivr.net/gh/ChirmyRam/ChirmyRam-OneDrive-Repository/WechatDonate.png)
+![微信赞赏码](https://vip.123pan.cn/1841641531/yk6baz03t0n000d5qav0daif9v22exflDIYxDIQxDIJwDGxzDIF1.JPG)
 
-### 2. USDT钱包地址：
-- Polygon or BEP20 (Min > 0.5 USDT):<br/>
-**0xefD714ffa7103E979A82f125dc76A5a9a3314Edf**
 
 ## 🎤 一、仓库介绍
 
-- 各盘总文件近似大小（截止2023年6月）
+- 各盘总文件近似大小（截止2024年12月）
 
-|盘符|Rep|Ani|Mov|Doc|Tlv1|Tlv2|4K1|4K2|4K3|
-|-|-|-|-|-|-|-|-|-|-|
-|大小（TB）|3.5|24.8|19.5|7.3|21.1|13.1|20.1|20.3|20.7|
+|盘符|📁学习资料|📺影视资源|🧩实用工具|🎵音乐|📕图书|📷照片|
+|-|-|-|-|-|-|-|
+|大小（TB）|0.20|12.6|0.15|0.04|0.05|0.07|20.1|
 
-文件资源储存于国际版 OneDrive ，仅用于学习交流使用，搬运进度止步于当年，内容不会再更新。网站被频繁访问会触发 OneDrive 的 API 调用限制，即报错日志为 `activityLimitReached` 、`The request has been throttled`、`429 Too Many Requests` ，或者文件目录会出现空目录，请坐和放宽，尝试多次刷新或稍后再试。影视资源大多为内封字幕的 mkv 格式，为了方便浏览，以中文名称拼音首字母、常用英文名称首字母为顺序建立文件夹索引，并将内容联系程度紧密的作品归类在了一起，名称可能有多种翻译，无法找到需尝试换个名称。若下载太慢请使用高速的全局代理或多线程下载器。浏览器在电脑 UA 模式下可查看文件（夹）大小。为缩短本页版面，我对文字说明进行了折叠处理，点击每个标题下的 **▶【查看详情】** 展开完整内容。
+文件资源仅用于学习交流使用，网站被频繁访问会触发网盘的 API 调用限制，或者文件目录会出现空目录，请坐和放宽，尝试多次刷新或稍后再试。影视资源大多为内封字幕的 mkv 格式，为了方便浏览，以中文名称拼音首字母、常用英文名称首字母为顺序建立文件夹索引，并将内容联系程度紧密的作品归类在了一起，名称可能有多种翻译，无法找到需尝试换个名称。若下载太慢请使用高速的全局代理或多线程下载器。为缩短本页版面，我对文字说明进行了折叠处理，点击每个标题下的 **▶【查看详情】** 展开完整内容。
 
 ## 📀 二、盘符介绍
 
 <details>
   <summary>【查看详情】</summary>
 
-不同的OneDrive目录程序所能挂载账户数量不尽相同，而我又不忍舍弃，所以部分网站同时挂载了九个盘，部分只挂载了一个盘。当然 **Root** 这个盘符是对网站整体九个盘抽象而言的，并不存在这样一个OneDrive账户。
-
-- ![](https://img.shields.io/badge/Root-orange) 总盘 ：同时挂载以下九个盘。
-- ![](https://img.shields.io/badge/Rep-orange) 仓库盘 ：存放杂七杂八的资源。
-- ![](https://img.shields.io/badge/Ani-orange) 动画盘 ：存放动画。
-- ![](https://img.shields.io/badge/Mov-orange) 电影盘 ：存放电影、纪录片。
-- ![](https://img.shields.io/badge/Doc-orange) 图书盘 ：存放电子书。
-- ![](https://img.shields.io/badge/Tlv1-orange) 剧集一盘 ：存放亚洲电视剧。
-- ![](https://img.shields.io/badge/Tlv2-orange) 剧集二盘 ：存放欧美电视剧。
-- ![](https://img.shields.io/badge/4K1-orange) 4K一盘 ：存放 4K iso 电影。
-- ![](https://img.shields.io/badge/4K2-orange) 4K二盘 ：存放 4K iso 电影。
-- ![](https://img.shields.io/badge/4K3-orange) 4K三盘 ：存放 4K iso 电影。
-
+- ![](https://img.shields.io/badge/📁学习资料-orange) 学习盘 ：存放高中、大学科目的学习资料和网课。
+- ![](https://img.shields.io/badge/📺影视资源-orange) 影视盘 ：存放动漫、春晚、演唱会、电影、电视剧等个人资源和挂载了小雅资源。
+- ![](https://img.shields.io/badge/🧩实用工具-orange) 工具盘 ：存放Windows、mac和手机的实用工具、插件。
+- ![](https://img.shields.io/badge/📕图书-orange) 图书盘 ：存放电子书。
+- ![](https://img.shields.io/badge/📷照片-orange) 图书盘 ：存放好看的壁纸和风景照片。
 </details>
 
 ## 🦄 三、网络挂载
